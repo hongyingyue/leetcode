@@ -11,7 +11,7 @@
 
 - [LintCode 炼码](https://www.lintcode.com/problem) : 题号与LeetCode不同，可以做部分LeetCode的付费题目，用题目标题搜索；国内网站，推荐免费党尝试
 
-- [Meta/Facebook 常考题单](/assets/meta.pdf)
+- [Meta/Facebook 高频题单](/assets/meta.pdf)
 
 
 ### Solutions
